@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb942e63f05c8f47add31f31cb271b5, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  heroType: 2
+  levelSprites:
+  - level: 0
+    sprite: {fileID: 21300000, guid: e45024e731d6e2f409359d0bb64a417c, type: 3}
+  - level: 1
+    sprite: {fileID: 21300000, guid: c34981cc3e6719f47a4fb5fdc4641cad, type: 3}
+  - level: 2
+    sprite: {fileID: 21300000, guid: 1d2e599469593f14ca1132203870f07e, type: 3}
+  - level: 3
+    sprite: {fileID: 21300000, guid: ce82af72a2653514bb2ad9b6c9746c8f, type: 3}

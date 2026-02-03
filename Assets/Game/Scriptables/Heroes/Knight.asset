@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb942e63f05c8f47add31f31cb271b5, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  heroType: 1
+  levelSprites:
+  - level: 0
+    sprite: {fileID: 21300000, guid: 1285ba7cfeb07f44ca75139a42f97e4e, type: 3}
+  - level: 1
+    sprite: {fileID: 21300000, guid: 457a73fd242ff8d4b8a6e045b3b8a628, type: 3}
+  - level: 2
+    sprite: {fileID: 21300000, guid: 3e69cd4871d525649a04581aff7a6f93, type: 3}
+  - level: 3
+    sprite: {fileID: 21300000, guid: c9e0159f5c224be4d884fc8ca6c1867a, type: 3}

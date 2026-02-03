@@ -1,0 +1,2281 @@
+fileFormatVersion: 2
+guid: 0494f74e25ff52f4f981a8e1b17e6407
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1348723248375343811
+    second: code_lifetimescope_annotated_0
+  - first:
+      213: 8097114549274623292
+    second: code_lifetimescope_annotated_1
+  - first:
+      213: -7548526901175215236
+    second: code_lifetimescope_annotated_2
+  - first:
+      213: -7920766196436373268
+    second: code_lifetimescope_annotated_3
+  - first:
+      213: -5611387264103110409
+    second: code_lifetimescope_annotated_4
+  - first:
+      213: -9038544016401642052
+    second: code_lifetimescope_annotated_5
+  - first:
+      213: 5889950493484701855
+    second: code_lifetimescope_annotated_6
+  - first:
+      213: -4110366245333750563
+    second: code_lifetimescope_annotated_7
+  - first:
+      213: 4248481544447225928
+    second: code_lifetimescope_annotated_8
+  - first:
+      213: 3171721673161142222
+    second: code_lifetimescope_annotated_9
+  - first:
+      213: -3686299307760253638
+    second: code_lifetimescope_annotated_10
+  - first:
+      213: 2519132874865095722
+    second: code_lifetimescope_annotated_11
+  - first:
+      213: -5335452028914890867
+    second: code_lifetimescope_annotated_12
+  - first:
+      213: 5360336814293475415
+    second: code_lifetimescope_annotated_13
+  - first:
+      213: 6767139448336632982
+    second: code_lifetimescope_annotated_14
+  - first:
+      213: -6860050593050070999
+    second: code_lifetimescope_annotated_15
+  - first:
+      213: -7757053285240830690
+    second: code_lifetimescope_annotated_16
+  - first:
+      213: -2690198170454262220
+    second: code_lifetimescope_annotated_17
+  - first:
+      213: -5158895706368965640
+    second: code_lifetimescope_annotated_18
+  - first:
+      213: -3297576247903680253
+    second: code_lifetimescope_annotated_19
+  - first:
+      213: 8626057425201654902
+    second: code_lifetimescope_annotated_20
+  - first:
+      213: 5312909665791472394
+    second: code_lifetimescope_annotated_21
+  - first:
+      213: -2198877883366520924
+    second: code_lifetimescope_annotated_22
+  - first:
+      213: 3770096004554402928
+    second: code_lifetimescope_annotated_23
+  - first:
+      213: -5396625527209865535
+    second: code_lifetimescope_annotated_24
+  - first:
+      213: 4326074054653989687
+    second: code_lifetimescope_annotated_25
+  - first:
+      213: 901022369237362359
+    second: code_lifetimescope_annotated_26
+  - first:
+      213: 9172584737559246655
+    second: code_lifetimescope_annotated_27
+  - first:
+      213: -695429850945233568
+    second: code_lifetimescope_annotated_28
+  - first:
+      213: 411330187103770234
+    second: code_lifetimescope_annotated_29
+  - first:
+      213: 2551830349034376526
+    second: code_lifetimescope_annotated_30
+  - first:
+      213: -6614571232503257792
+    second: code_lifetimescope_annotated_31
+  - first:
+      213: 930446668474363705
+    second: code_lifetimescope_annotated_32
+  - first:
+      213: 7249481614710056016
+    second: code_lifetimescope_annotated_33
+  - first:
+      213: -865880046374002241
+    second: code_lifetimescope_annotated_34
+  - first:
+      213: 5983855593965883208
+    second: code_lifetimescope_annotated_35
+  - first:
+      213: 5156712778390344656
+    second: code_lifetimescope_annotated_36
+  - first:
+      213: -8572364561232476277
+    second: code_lifetimescope_annotated_37
+  - first:
+      213: 7078300489103342546
+    second: code_lifetimescope_annotated_38
+  - first:
+      213: -904492427467258541
+    second: code_lifetimescope_annotated_39
+  - first:
+      213: 2895847011532928226
+    second: code_lifetimescope_annotated_40
+  - first:
+      213: 6274780554524596841
+    second: code_lifetimescope_annotated_41
+  - first:
+      213: -7817582969640623812
+    second: code_lifetimescope_annotated_42
+  - first:
+      213: 4741755235096703017
+    second: code_lifetimescope_annotated_43
+  - first:
+      213: 1367135026486687311
+    second: code_lifetimescope_annotated_44
+  - first:
+      213: 1784684105426291896
+    second: code_lifetimescope_annotated_45
+  - first:
+      213: 5707146145742757991
+    second: code_lifetimescope_annotated_46
+  - first:
+      213: 8965701289177851520
+    second: code_lifetimescope_annotated_47
+  - first:
+      213: -3840515664466686998
+    second: code_lifetimescope_annotated_48
+  - first:
+      213: -7920724169458449975
+    second: code_lifetimescope_annotated_49
+  - first:
+      213: -6855264547968059770
+    second: code_lifetimescope_annotated_50
+  - first:
+      213: 8236046136242029154
+    second: code_lifetimescope_annotated_51
+  - first:
+      213: -8961408469052050377
+    second: code_lifetimescope_annotated_52
+  - first:
+      213: 7805734201389976535
+    second: code_lifetimescope_annotated_53
+  - first:
+      213: -2353836555956137024
+    second: code_lifetimescope_annotated_54
+  - first:
+      213: -6881501323483708884
+    second: code_lifetimescope_annotated_55
+  - first:
+      213: -6292872417870544831
+    second: code_lifetimescope_annotated_56
+  - first:
+      213: -7173510037136434833
+    second: code_lifetimescope_annotated_57
+  - first:
+      213: -8292824829913372341
+    second: code_lifetimescope_annotated_58
+  - first:
+      213: -6350867726896493495
+    second: code_lifetimescope_annotated_59
+  - first:
+      213: 1550051633387135426
+    second: code_lifetimescope_annotated_60
+  - first:
+      213: -1298014885872838600
+    second: code_lifetimescope_annotated_61
+  - first:
+      213: 7980770213158867420
+    second: code_lifetimescope_annotated_62
+  - first:
+      213: -8208281031521970579
+    second: code_lifetimescope_annotated_63
+  - first:
+      213: -9069771077650876553
+    second: code_lifetimescope_annotated_64
+  - first:
+      213: 4375431440275279182
+    second: code_lifetimescope_annotated_65
+  - first:
+      213: 7853021207604753541
+    second: code_lifetimescope_annotated_66
+  - first:
+      213: 6017793676890155169
+    second: code_lifetimescope_annotated_67
+  - first:
+      213: 1881058360939331944
+    second: code_lifetimescope_annotated_68
+  - first:
+      213: -9055095844588813493
+    second: code_lifetimescope_annotated_69
+  - first:
+      213: -4431416590141402489
+    second: code_lifetimescope_annotated_70
+  - first:
+      213: 1333942846705029372
+    second: code_lifetimescope_annotated_71
+  - first:
+      213: 1806846990765794529
+    second: code_lifetimescope_annotated_72
+  - first:
+      213: 7579684542464265890
+    second: code_lifetimescope_annotated_73
+  - first:
+      213: 3177553743773777667
+    second: code_lifetimescope_annotated_74
+  - first:
+      213: 7198420309430462987
+    second: code_lifetimescope_annotated_75
+  - first:
+      213: 7001181564965232795
+    second: code_lifetimescope_annotated_76
+  - first:
+      213: -9160803058093722655
+    second: code_lifetimescope_annotated_77
+  - first:
+      213: -3066636974709651658
+    second: code_lifetimescope_annotated_78
+  - first:
+      213: 1387006110313825605
+    second: code_lifetimescope_annotated_79
+  - first:
+      213: 1705445467731621096
+    second: code_lifetimescope_annotated_80
+  - first:
+      213: 1640928656625766098
+    second: code_lifetimescope_annotated_81
+  - first:
+      213: 724905627944871081
+    second: code_lifetimescope_annotated_82
+  - first:
+      213: -1035310003541468380
+    second: code_lifetimescope_annotated_83
+  - first:
+      213: -4002123319885686767
+    second: code_lifetimescope_annotated_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 33
+        width: 801
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35d648f95f584de0800000000000000
+      internalID: -1348723248375343811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 387
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d392f38cabe5070800000000000000
+      internalID: 8097114549274623292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b98f5f6ce3e3790800000000000000
+      internalID: -7548526901175215236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_3
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 387
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0fc704c19c31290800000000000000
+      internalID: -7920766196436373268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 386
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8abf183095022b0800000000000000
+      internalID: -5611387264103110409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_5
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 386
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdc5a7fa14a09280800000000000000
+      internalID: -9038544016401642052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_6
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 386
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98dacc74ce4db150800000000000000
+      internalID: 5889950493484701855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 387
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc20227dab05f6c0800000000000000
+      internalID: -4110366245333750563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_8
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 386
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840749b8473a5fa30800000000000000
+      internalID: 4248481544447225928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_9
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 386
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6d27ae08340c20800000000000000
+      internalID: 3171721673161142222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_10
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 386
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358e297f42a7dcc0800000000000000
+      internalID: -3686299307760253638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_11
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 386
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24b754b002c5f220800000000000000
+      internalID: 2519132874865095722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_12
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 386
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87046ce5aaa4f5b0800000000000000
+      internalID: -5335452028914890867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_13
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 387
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750696caeedb36a40800000000000000
+      internalID: 5360336814293475415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_14
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 386
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c43a37975b9ed50800000000000000
+      internalID: 6767139448336632982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_15
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 387
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920fa0ce4543cc0a0800000000000000
+      internalID: -6860050593050070999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_16
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 382
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15817db229695490800000000000000
+      internalID: -7757053285240830690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_17
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 382
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43efaaa640f7aaad0800000000000000
+      internalID: -2690198170454262220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_18
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 386
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3079420bbe768b0800000000000000
+      internalID: -5158895706368965640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_19
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 387
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3098fe3bfd7ac32d0800000000000000
+      internalID: -3297576247903680253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_20
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 386
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ce3418689e5b770800000000000000
+      internalID: 8626057425201654902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_21
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 354
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a037d39213f3bb940800000000000000
+      internalID: 5312909665791472394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_22
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7c97917340c71e0800000000000000
+      internalID: -2198877883366520924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_23
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 354
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ca5906752125430800000000000000
+      internalID: 3770096004554402928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_24
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cec9d0fca55b15b0800000000000000
+      internalID: -5396625527209865535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_25
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 353
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7335fa3ae6d490c30800000000000000
+      internalID: 4326074054653989687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_26
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 354
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6e21d2213118c00800000000000000
+      internalID: 901022369237362359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_27
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37736a68319b4f70800000000000000
+      internalID: 9172584737559246655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_28
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 354
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dd4303c365956f0800000000000000
+      internalID: -695429850945233568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_29
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 354
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7617b730a655b500800000000000000
+      internalID: 411330187103770234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_30
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 353
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d4149ae2ce96320800000000000000
+      internalID: 2551830349034376526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_31
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 354
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045202172825434a0800000000000000
+      internalID: -6614571232503257792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_32
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 354
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f2cd4b05c99ec00800000000000000
+      internalID: 930446668474363705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_33
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 350
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054a4828e155b9460800000000000000
+      internalID: 7249481614710056016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_34
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb167c97fa6cbf3f0800000000000000
+      internalID: -865880046374002241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_35
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 354
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f029975fcea0350800000000000000
+      internalID: 5983855593965883208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_36
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 354
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d39ca453f2509740800000000000000
+      internalID: 5156712778390344656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_37
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87479299d7d80980800000000000000
+      internalID: -8572364561232476277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_38
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 350
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db7a7adacc2b3260800000000000000
+      internalID: 7078300489103342546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_39
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35588ceede89273f0800000000000000
+      internalID: -904492427467258541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_40
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 354
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4fb4e938d103820800000000000000
+      internalID: 2895847011532928226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_41
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 354
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a97fb4baf741750800000000000000
+      internalID: 6274780554524596841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_42
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c316d6c55bd528390800000000000000
+      internalID: -7817582969640623812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_43
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 353
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920b9cf63491ec140800000000000000
+      internalID: 4741755235096703017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_44
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 350
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46bbbd201a09f210800000000000000
+      internalID: 1367135026486687311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_45
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 353
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc483cfcb874c810800000000000000
+      internalID: 1784684105426291896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_46
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 350
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760ac3a8e2bd33f40800000000000000
+      internalID: 5707146145742757991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_47
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08625b7f1d19c6c70800000000000000
+      internalID: 8965701289177851520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_48
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 354
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebc321e95fb3bac0800000000000000
+      internalID: -3840515664466686998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_49
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1049b655fe31290800000000000000
+      internalID: -7920724169458449975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_50
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 354
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686f801e6353dd0a0800000000000000
+      internalID: -6855264547968059770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_51
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 267
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624f6013505c4270800000000000000
+      internalID: 8236046136242029154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_52
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 266
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734b9fa1a7ea2a380800000000000000
+      internalID: -8961408469052050377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_53
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 267
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db87fc46e9835c60800000000000000
+      internalID: 7805734201389976535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_54
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 266
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3d7ee9f1e755fd0800000000000000
+      internalID: -2353836555956137024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_55
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 266
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c228f5c810fff70a0800000000000000
+      internalID: -6881501323483708884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_56
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 267
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14009f380e93ba8a0800000000000000
+      internalID: -6292872417870544831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_57
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6998cbc0a2927c90800000000000000
+      internalID: -7173510037136434833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_58
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 267
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49697421c7f9ec80800000000000000
+      internalID: -8292824829913372341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_59
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 266
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c87d2637f2dd7a0800000000000000
+      internalID: -6350867726896493495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_60
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 266
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ed8f7fb3e28510800000000000000
+      internalID: 1550051633387135426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_61
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 266
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8385166a6568cfde0800000000000000
+      internalID: -1298014885872838600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_62
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 266
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd15a55993461ce60800000000000000
+      internalID: 7980770213158867420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_63
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 266
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d665e8324e3561e80800000000000000
+      internalID: -8208281031521970579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_64
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 266
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f1823243b12280800000000000000
+      internalID: -9069771077650876553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_65
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d0fa086b7a8bc30800000000000000
+      internalID: 4375431440275279182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_66
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 264
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f3e46e298bfc60800000000000000
+      internalID: 7853021207604753541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_67
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 176
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a821aa277f738350800000000000000
+      internalID: 6017793676890155169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_68
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 177
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861419dec9cda1a10800000000000000
+      internalID: 1881058360939331944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_69
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b430b282e46d55280800000000000000
+      internalID: -9055095844588813493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_70
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 177
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78259d407127082c0800000000000000
+      internalID: -4431416590141402489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_71
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0d68893fd138210800000000000000
+      internalID: 1333942846705029372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_72
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 177
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e42418d3c5331910800000000000000
+      internalID: 1806846990765794529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_73
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae0a17bee2703960800000000000000
+      internalID: 7579684542464265890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_74
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 177
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f39586b40f81c20800000000000000
+      internalID: 3177553743773777667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_75
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6f8fe12de5e360800000000000000
+      internalID: 7198420309430462987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_76
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 177
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9024cb1a81392160800000000000000
+      internalID: 7001181564965232795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_77
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3f209972a4ed080800000000000000
+      internalID: -9160803058093722655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_78
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 177
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6374a535bed1175d0800000000000000
+      internalID: -3066636974709651658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_79
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5454d8a65b2af3310800000000000000
+      internalID: 1387006110313825605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_80
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e471f7fd95faa710800000000000000
+      internalID: 1705445467731621096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_81
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 177
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de00ff4befb5c610800000000000000
+      internalID: 1640928656625766098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_82
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 190
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4e551f3d16f0a00800000000000000
+      internalID: 724905627944871081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_83
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 176
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b908e7907d1a1f0800000000000000
+      internalID: -1035310003541468380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: code_lifetimescope_annotated_84
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11818e27b0a9578c0800000000000000
+      internalID: -4002123319885686767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
